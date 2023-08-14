@@ -5,8 +5,10 @@ Tech Blor URL : https://velog.io/@kimm9803
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimm9803%2F&count_bg=%2379C83D&title_bg=%23D1AE25&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![kimm9803's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimm9803&show_icons=true&theme=cobalt)
+[![kimm9803's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimm9803&show_icons=true&hide_border=true&layout=compact&theme=cobalt)](https://github.com/kimm9803)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhh7881)](https://solved.ac/kjhh7881/)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=kimm9803&row=1)](https://github.com/ryo-ma/github-profile-trophy)-->
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
