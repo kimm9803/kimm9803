@@ -1,5 +1,7 @@
 # KIM HYUN SOO 😉
 
+Tech Blor URL : https://velog.io/@kimm9803
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimm9803%2F&count_bg=%2379C83D&title_bg=%23D1AE25&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![kimm9803's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimm9803&show_icons=true&theme=cobalt)
@@ -22,6 +24,6 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@kimm9803/)](https://velog.io/@kimm9803/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/kimm9803/)](https://github.com/kimm9803/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimm9803@gmail.com)](mailto:kimm9803@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kjhh7881@naver.com)](mailto:kjhh7881@naver.com)
