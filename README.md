@@ -5,6 +5,7 @@ Tech Blor URL : https://velog.io/@kimm9803
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimm9803%2F&count_bg=%2379C83D&title_bg=%23D1AE25&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![kimm9803's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimm9803&show_icons=true&theme=cobalt)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhh7881)](https://solved.ac/kjhh7881/)
 # 💪Skills
 ### Platforms & Languages
